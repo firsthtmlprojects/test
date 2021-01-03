@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Irina Paraschivu</title>
+  </head>
+
+  <body>
+    <!-- Header -->
+
+    <header>
+        <h1>Irina Paraschivu</h1>
+        <nav>
+            <a href="One.html">One</a>
+            <a href="Two.html">Two</a>
+            <a href="Three.html">Three</a>
+            <a href="Home.html">Home</a>
+      </nav>
+    </header>
+
+    <!-- Hero -->
+
+    <section>
+
+      <h2>Favorite foods</h2>
+<ol>
+<li>Soups</li>
+<li>Pizza</li>
+<li>Watermelon</li>
+</ol>
+
+    </section>
+
+    <section>
+
+      <section>
+    <h2>Achievements</h2>
+    <p>Progress in this course (100%)<progress value="1"></progress><br>
+        Progress in the Specialization capstone (20%)<progress>20%</progress><br>
+        Progress in life goals (40%)<progress>40</progress><p>
+      </section>
+
+      <section>
+    <h2>More about me</h2>
+    <details>
+        <summary>My childhood</summary>
+        <p>I was born in the city of Constantin Brancusi, Targu-Jiu. I studied in Bucharest and continue to live here. </p>
+    </details>
+      </section>
+
+    <!-- Footer -->
+
+    <footer>
+<p><img src="http://intro-webdesign.com/images/newlogo.png"> This page was creatd by Irina Paraschivu and Collen van Lent. To learn more about web design, visit <a href="http://intro-webdesign.com/">Intro to web design</a></p>
+
+    </footer>
+
+  </body>
+</html>
